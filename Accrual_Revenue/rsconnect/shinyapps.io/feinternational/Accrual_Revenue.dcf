@@ -1,0 +1,12 @@
+name: Accrual_Revenue
+title: Accrual_Revenue
+username:
+account: feinternational
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3879038
+bundleId: 4407646
+url: https://feinternational.shinyapps.io/Accrual_Revenue/
+when: 1617026224.26265
+asMultiple: FALSE
+asStatic: FALSE
